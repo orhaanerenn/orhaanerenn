@@ -2,6 +2,10 @@
 
 I’m currently working as a Linux System Administrator and studying on Front-End Web Development.
 
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Lego" width="50px" height="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="Jasascript Logo"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px" alt="CSS3 Lego"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px" alt="HTML5 Lego">
+
 
 <!--
 **orhaanerenn/orhaanerenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
